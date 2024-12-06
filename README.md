@@ -2,6 +2,7 @@
 
 ![운동 자세 프로젝트]()
 
+<img src="https://github.com/user-attachments/assets/69cc6311-c11d-46eb-8d59-10b60dffaa92" alt="딥러닝발표자료" width="500">
 ---
 
 ## 📖 프로젝트 소개
