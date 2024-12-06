@@ -1,7 +1,8 @@
 # 🏋️‍♂️ 딥러닝 기반 운동 자세 평가 및 분류 프로젝트
 
 
-<img src="https://github.com/user-attachments/assets/69cc6311-c11d-46eb-8d59-10b60dffaa92" alt="딥러닝발표자료" width="500">
+<img src="https://github.com/user-attachments/assets/69cc6311-c11d-46eb-8d59-10b60dffaa92" alt="딥러닝발표자료" width="500">\
+
 ---
 ## 🗂 발표 자료
 - [📂 발표자료 PDF](https://github.com/tjehdgus/deep_learning/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
