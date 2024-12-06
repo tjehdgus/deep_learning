@@ -43,7 +43,6 @@
   - 대용량 데이터로 인해 서버와 메모리 자원의 부족.
   - 데이터 분석 및 학습 시간 부족.
 
-https://github.com/user-attachments/assets/3fe57b31-fa21-48a6-a3b4-ade0bafe83f7
 ---
 
 ## 🛠️ 사용된 기술 스택
@@ -68,4 +67,8 @@ https://github.com/user-attachments/assets/3fe57b31-fa21-48a6-a3b4-ade0bafe83f7
 
 ---
 - **활용 영상**:
-https://github.com/user-attachments/assets/3fe57b31-fa21-48a6-a3b4-ade0bafe83f7
+
+
+https://github.com/user-attachments/assets/631b633e-23ec-4b0b-9618-3e9e67372bbd
+
+
