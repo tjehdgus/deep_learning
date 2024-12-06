@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/69cc6311-c11d-46eb-8d59-10b60dffaa92" alt="딥러닝발표자료" width="500">
 ---
 ## 🗂 발표 자료
-[📂 프로젝트 발표 자료](./files/파이널_프로젝트_발표자료.pdf)
+[📂 프로젝트 발표 자료](https://github.com/tjehdgus/deep_learning/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 ## 📖 프로젝트 소개
 
 이 프로젝트는 Mediapipe와 TSM 기반 딥러닝 모델을 활용하여 **운동 자세를 분류하고 평가**하는 시스템을 개발한 팀 프로젝트입니다. 본 프로젝트는 다양한 운동 자세를 평가하여 정확도를 개선하고, 사용자 맞춤형 피드백을 제공하는 것을 목표로 했습니다.
