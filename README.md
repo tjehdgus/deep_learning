@@ -69,6 +69,7 @@
 - **활용 영상**:
 
 
-https://github.com/user-attachments/assets/631b633e-23ec-4b0b-9618-3e9e67372bbd
+https://github.com/user-attachments/assets/54e77049-d747-4d75-ad27-f6e016f77613
+
 
 
